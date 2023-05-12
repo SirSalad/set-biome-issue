@@ -1,0 +1,6 @@
+name: "set-biome-issue"
+main: "io.github.sirsalad.setbiomeissue.SetBiomeIssuePlugin"
+version: "1.0.0"
+api-version: "1.13"
+commands:
+  test:
